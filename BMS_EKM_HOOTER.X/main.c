@@ -7,11 +7,11 @@
 
 #include"projectDefines.h"
 
-void initializeInputs(void);
+/*void initializeInputs(void);
 void initializeOutputs(void);
 void initializeSystem(void);
 void checkModbusPacket(void);
-
+*/
 void main(void)
 {
     initializeSystem();
